@@ -1,37 +1,33 @@
 name: Generate pacman animation
 
 on:
-  schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch: # Allows you to run this manually from the Actions tab
-  push:
-    branches:
-      - main
+schedule:
+- cron: "0 */12 * * *"
+workflow_dispatch:
+push:
+branches:
+- main
 
 jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+generate:
+permissions:
+contents: write
+runs-on: ubuntu-latest
+timeout-minutes: 5
 
-    steps:
-      # 1. Checkout the repository to set up the workspace
-      - name: Checkout repository
-        uses: actions/checkout@v4
+```
+steps:
+  - name: Generate pacman graph
+    uses: abozanona/pacman-contribution-graph@main
+    with:
+      github_user_name: ${{ github.repository_owner }}
 
-      # 2. Generate the pacman graph
-      - name: Generate pacman graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-      # 3. Push the generated files to the 'output' branch
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist 
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  - name: Push to output branch
+    uses: crazy-max/ghaction-github-pages@v3.1.0
+    with:
+      target_branch: output
+      build_dir: dist
+      keep_history: true
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
