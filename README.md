@@ -8,7 +8,7 @@
 🚀 Third Year Computer Engineering Student  |  Future Full Stack Developer
 
 ## 🧑‍💻 About Me
-- 📛 My full name is **Pranat Yogesh Pagar** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
+- 📛 My full name is **Pranat Yogesh Pagar** <img src="https://![media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gi](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)f" width="120" align="right"/>
 - 🎓 Third Year @ DYPCOEI
 - 📈 My major is **Full-stack Development**
 - 🎯 Primary Focus on **DSA + System Design**
