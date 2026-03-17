@@ -32,8 +32,7 @@
 
 ## 📊 Top Languages
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=pranat20\&layout=compact\&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 ##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranat20/pranat20/output/pacman-contribution-graph-dark.svg">
