@@ -9,11 +9,11 @@
 
 ## 🧑‍💻 About Me
 - My full name is **Pranat Yogesh Pagar** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
-🎓 Final Year @ DYPCOEI
-📈 My major is **Full-stack Development**
-🎯 Primary Focus on **DSA + System Design**
-💻 Skilled in Python, Django, Java
-⚡ Fun fact: I build real-world projects
+- 🎓 Final Year @ DYPCOEI
+- 📈 My major is **Full-stack Development**
+- 🎯 Primary Focus on **DSA + System Design**
+- 💻 Skilled in Python, Django, Java
+- ⚡ Fun fact: I build real-world projects
 
 ## 🌐 Connect With Me
 
