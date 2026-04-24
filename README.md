@@ -5,11 +5,11 @@
 </div>
 
 ## 🖐️ Hi, I'm Pranat Pagar
-🚀 Salesforce Developer | Full Stack Enthusiast
+🚀 Salesforce Developer | Full Stack Enthusiast 
 
 ## 🧑‍💻 About Me
-- 📛 My full name is **Pranat Yogesh Pagar** <img src="https://media.giphy.com/media/9u191KB0g7htWeyRIX/giphy.gif" width="120" align="right"/>
-- 🎓 Final Year Computer Engineering @ DYPCOEI
+- 📛 My full name is **Pranat Yogesh Pagar** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleHdwYmI1ZzF4aHh5cmR2ZzFxeHh5cmR2ZzFxeHh5cmR2ZzF4JnBvcz1jJm89Z2lmcyZzPWFzdHJvJTIwc2FsZXNmb3JjZQ/72q7yKYoEyGzAGbGFl/giphy.gif" width="130" align="right"/>
+- 🎓 Third Year Computer Engineering @ DYPCOEI
 - 📈 Specialized in **Salesforce Development (Apex, LWC, SOQL)**
 - 🎯 Building scalable CRM solutions & **Full-stack Applications**
 - 💻 Expert in Salesforce Lightning, Python (Django), and Java
